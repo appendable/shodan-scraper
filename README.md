@@ -1,5 +1,5 @@
 # shodan-scraper
-Python Shodan Scraper
+- A simple and easy to use Shodan scraper made in Python that outputs into a text file.
 
 # How to use
 - You will need Python 3 with pip installed.
