@@ -7,6 +7,4 @@ Python Shodan Scraper
 - Before running main.py, you will need to run ```pip install shodan``` inside of a terminal/command prompt.
 
 # Usage
-```bash
-python main.py
-```
+- python main.py
